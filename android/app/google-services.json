@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332826405833",
+    "project_id": "ptu-hostel",
+    "storage_bucket": "ptu-hostel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332826405833:android:caf2076bc1ae98fb2d5618",
+        "android_client_info": {
+          "package_name": "com.example.ptu_hostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmVKjkwV4YdM-mFka-q2lJyubwb5OpYlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
